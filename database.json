@@ -1,0 +1,17 @@
+[
+  {
+    "status": "Alive",
+    "timestamp": "05-01-2024 04:30:40 PM"
+  },
+  {
+    "status": "Alive",
+    "current_ip": "172.31.196.30",
+    "timestamp": "05-01-2024 04:35:02 PM"
+  },
+  {
+    "status": "Alive",
+    "current_ip": "172.31.196.30",
+    "hostname": "4e321314b200",
+    "timestamp": "05-01-2024 04:36:07 PM"
+  }
+]
